@@ -216,4 +216,4 @@ feel free to use, modify, and share.
 > _"Streamlite demonstrates how code, automation, and quality assurance come together to form a reliable DevOps pipeline."_
 
 
-This is also my first project by the way. Its a mini one that does not involve al the major parts in automation, just github jenjins maven sonarqube is being used here.
+This is also my first project by the way. Its a mini one that does not involve all the major parts in automation, just github jenjins maven sonarqube is being used here.
